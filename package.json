@@ -1,0 +1,33 @@
+{
+  "name": "my-poject",
+  "version": "1.0.0",
+  "description": "test at home",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp-eslint": "^5.0.0",
+    "gulp-jasmine": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-jasmine-phantom": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuP3RM/gulp-test.git"
+  },
+  "keywords": [
+    "mar"
+  ],
+  "author": "mario a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuP3RM/gulp-test/issues"
+  },
+  "homepage": "https://github.com/SuP3RM/gulp-test#readme"
+}
